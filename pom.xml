@@ -116,5 +116,12 @@
 			<version>${jackson-version}</version>
 		</dependency>
 		</dependencies>
+			
+		<properties>
+			<liferay.version>6.2.5</liferay.version>
+			<liferay.maven.plugin.version>6.2.10.12</liferay.maven.plugin.version>
+			<springframework-version>3.0.7.RELEASE</springframework-version>
+			<jackson-version>1.4.2</jackson-version>
+	</properties>
             		
 </project>
